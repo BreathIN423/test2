@@ -1,6 +1,0 @@
-#include<stdio.h><
-
-asdf
-asdf
-asdf
-as
